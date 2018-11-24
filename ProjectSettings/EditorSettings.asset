@@ -19,4 +19,7 @@ EditorSettings:
   m_UserGeneratedProjectSuffix: 
   m_CollabEditorSettings:
     inProgressEnabled: 1
+<<<<<<< HEAD
   m_EnableTextureStreamingInPlayMode: 1
+=======
+>>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
