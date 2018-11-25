@@ -4,11 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-<<<<<<< HEAD
-  productGUID: b3c7f737d7426bc438bde7c9556fb9dd
-=======
-  productGUID: f8149d6c186e977469fc5ef87f62423e
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
+  productGUID: 707f781b777e530479a53d348f547518
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -56,10 +52,7 @@ PlayerSettings:
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
-<<<<<<< HEAD
-=======
   tizenShowActivityIndicatorOnLoading: -1
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   iosAppInBackgroundBehavior: 0
   displayResolutionDialog: 1
   iosAllowHTTPDownload: 1
@@ -118,11 +111,6 @@ PlayerSettings:
   videoMemoryForVertexBuffers: 0
   psp2PowerMode: 0
   psp2AcquireBGM: 1
-<<<<<<< HEAD
-  vulkanEnableSetSRGBWrite: 0
-  vulkanUseSWCommandBuffers: 0
-=======
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   m_SupportedAspectRatios:
     4:3: 1
     5:4: 1
@@ -135,12 +123,7 @@ PlayerSettings:
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
-<<<<<<< HEAD
-  xboxOneEnable7thCore: 1
-  isWsaHolographicRemotingEnabled: 0
-=======
   xboxOneEnable7thCore: 0
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   vrSettings:
     cardboard:
       depthFormat: 0
@@ -155,17 +138,10 @@ PlayerSettings:
     hololens:
       depthFormat: 1
       depthBufferSharingEnabled: 0
-<<<<<<< HEAD
-    oculus:
-      sharedDepthBuffer: 0
-      dashSupport: 0
-    enable360StereoCapture: 0
-=======
     enable360StereoCapture: 0
     oculus:
       sharedDepthBuffer: 0
       dashSupport: 0
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   m_ColorGamuts: 00000000
@@ -257,10 +233,6 @@ PlayerSettings:
   appleEnableAutomaticSigning: 0
   iOSRequireARKit: 0
   appleEnableProMotion: 0
-<<<<<<< HEAD
-  vulkanEditorSupport: 0
-=======
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   clonedFromGUID: 00000000000000000000000000000000
   templatePackageId: 
   templateDefaultScene: 
@@ -269,10 +241,6 @@ PlayerSettings:
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
-<<<<<<< HEAD
-  AndroidBuildApkPerCpuArchitecture: 0
-=======
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
   AndroidEnableTango: 0
@@ -298,10 +266,6 @@ PlayerSettings:
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
-<<<<<<< HEAD
-  m_BuildTargetGroupLightmapSettings: []
-=======
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -423,16 +387,8 @@ PlayerSettings:
   switchAllowsVideoCapturing: 1
   switchAllowsRuntimeAddOnContentInstall: 0
   switchDataLossConfirmation: 0
-<<<<<<< HEAD
-  switchUserAccountLockEnabled: 0
   switchSupportedNpadStyles: 3
   switchNativeFsCacheSize: 32
-  switchIsHoldTypeHorizontal: 0
-  switchSupportedNpadCount: 8
-=======
-  switchSupportedNpadStyles: 3
-  switchNativeFsCacheSize: 32
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   switchSocketConfigEnabled: 0
   switchTcpInitialSendBufferSize: 32
   switchTcpInitialReceiveBufferSize: 64
@@ -474,11 +430,7 @@ PlayerSettings:
   ps4RemotePlayKeyAssignment: -1
   ps4RemotePlayKeyMappingDir: 
   ps4PlayTogetherPlayerCount: 0
-<<<<<<< HEAD
-  ps4EnterButtonAssignment: 2
-=======
   ps4EnterButtonAssignment: 1
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   ps4ApplicationParam1: 0
   ps4ApplicationParam2: 0
   ps4ApplicationParam3: 0
@@ -569,11 +521,7 @@ PlayerSettings:
   webGLMemorySize: 256
   webGLExceptionSupport: 1
   webGLNameFilesAsHashes: 0
-<<<<<<< HEAD
-  webGLDataCaching: 1
-=======
   webGLDataCaching: 0
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
@@ -581,11 +529,7 @@ PlayerSettings:
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
   webGLCompressionFormat: 1
-<<<<<<< HEAD
-  webGLLinkerTarget: 1
-=======
   webGLLinkerTarget: 0
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   scriptingDefineSymbols: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -607,10 +551,7 @@ PlayerSettings:
   metroApplicationDescription: Spielesammlung
   wsaImages: {}
   metroTileShortName: 
-<<<<<<< HEAD
-=======
   metroCommandLineArgsFile: 
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -626,8 +567,6 @@ PlayerSettings:
   metroFTAFileTypes: []
   metroProtocolName: 
   metroCompilationOverrides: 1
-<<<<<<< HEAD
-=======
   tizenProductDescription: 
   tizenProductURL: 
   tizenSigningProfileName: 
@@ -636,7 +575,6 @@ PlayerSettings:
   tizenDeploymentTarget: 
   tizenDeploymentTargetType: -1
   tizenMinOSVersion: 1
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   n3dsUseExtSaveData: 0
   n3dsCompressStaticMem: 1
   n3dsExtSaveDataNumber: 0x12345
@@ -657,10 +595,6 @@ PlayerSettings:
   XboxOneGameOsOverridePath: 
   XboxOnePackagingOverridePath: 
   XboxOneAppManifestOverridePath: 
-<<<<<<< HEAD
-  XboxOneVersion: 1.0.0.0
-=======
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   XboxOnePackageEncryption: 0
   XboxOnePackageUpdateGranularity: 2
   XboxOneDescription: 
@@ -669,11 +603,7 @@ PlayerSettings:
   XboxOneCapability: []
   XboxOneGameRating: {}
   XboxOneIsContentPackage: 0
-<<<<<<< HEAD
-  XboxOneEnableGPUVariability: 1
-=======
   XboxOneEnableGPUVariability: 0
->>>>>>> 0fe29c656e0e8bd858e6297c2bf8283c565fb1d2
   XboxOneSockets: {}
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
@@ -685,7 +615,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
-  facebookSdkVersion: 7.9.4
+  facebookSdkVersion: 
   apiCompatibilityLevel: 2
   cloudProjectId: 
   projectName: 
